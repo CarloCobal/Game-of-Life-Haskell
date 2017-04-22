@@ -25,3 +25,6 @@ Given an initial configuration of the board, the next generation if the board is
 
 # Game Demo
 ![Game Demo](https://github.com/rst0git/Game-of-Life-Haskell/raw/master/GameOfLife.gif)
+
+# Reference
+The materials were gathered from the book "Programming in Haskell" http://www.cs.nott.ac.uk/~pszgmh/pih.html
